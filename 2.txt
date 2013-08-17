@@ -1,1 +1,2 @@
 http://hantim.ru/jobs/21532-inzhener-po-testirovaniyu-mobilnyh-prilozheniy
+ - Оставим на крайний случай. Тестить мобилки - значит начинать с начала. Я в них ничего не понимаю
